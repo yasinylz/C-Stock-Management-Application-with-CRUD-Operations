@@ -1,0 +1,10 @@
+C:\Users\ysnyl\Desktop\ÜrünStokUygulaması\ÜrünStokUygulaması\bin\Debug\ÜrünStokUygulaması.exe.config
+C:\Users\ysnyl\Desktop\ÜrünStokUygulaması\ÜrünStokUygulaması\bin\Debug\ÜrünStokUygulaması.exe
+C:\Users\ysnyl\Desktop\ÜrünStokUygulaması\ÜrünStokUygulaması\bin\Debug\ÜrünStokUygulaması.pdb
+C:\Users\ysnyl\Desktop\ÜrünStokUygulaması\ÜrünStokUygulaması\obj\Debug\ÜrünStokUygulaması.csproj.AssemblyReference.cache
+C:\Users\ysnyl\Desktop\ÜrünStokUygulaması\ÜrünStokUygulaması\obj\Debug\ÜrünStokUygulaması.Form1.resources
+C:\Users\ysnyl\Desktop\ÜrünStokUygulaması\ÜrünStokUygulaması\obj\Debug\ÜrünStokUygulaması.Properties.Resources.resources
+C:\Users\ysnyl\Desktop\ÜrünStokUygulaması\ÜrünStokUygulaması\obj\Debug\ÜrünStokUygulaması.csproj.GenerateResource.cache
+C:\Users\ysnyl\Desktop\ÜrünStokUygulaması\ÜrünStokUygulaması\obj\Debug\ÜrünStokUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ysnyl\Desktop\ÜrünStokUygulaması\ÜrünStokUygulaması\obj\Debug\ÜrünStokUygulaması.exe
+C:\Users\ysnyl\Desktop\ÜrünStokUygulaması\ÜrünStokUygulaması\obj\Debug\ÜrünStokUygulaması.pdb
